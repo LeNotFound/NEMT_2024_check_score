@@ -2,7 +2,7 @@ import requests
 import time
 from win11toast import toast
 
-url = "http://query.bjeea.cn/queryService/rest/score/103"
+url = "http://query.bjeea.cn/queryService/rest/score/68386"
 
 music_src = "D:\\PythonProjects\\NEMT_2024_check_score\\思接千载 Cogitation of Epochs-HOYO-MiX.mp3"
 
